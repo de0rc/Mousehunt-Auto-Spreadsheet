@@ -6,5 +6,5 @@ credentials.json is required. You can learn how to create the file through this 
 
 The Google Sheet the notebook is pointing to is: https://docs.google.com/spreadsheets/d/1KeW44qsH7WCsuXuQHrZs7lG6yiMirT0PAKW_axtpv2c/edit?usp=sharing
 
-#NOTE
+# NOTE
 This is a work in progress. Additional features might be added and code might be streamlined in the near future.
